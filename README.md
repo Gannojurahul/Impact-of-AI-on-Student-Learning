@@ -4,3 +4,8 @@ The objective of this project is to analyze the impact of Artificial Intelligenc
 The dashboard highlights popular AI tools such as ChatGPT, Gemini, Perplexity, Claude, and Meta AI. It includes key performance indicators (KPIs), bar charts, donut charts, slicers, and geographical visualizations to explore student behavior and preferences. It also provides insights into daily, weekly, and monthly AI usage, student satisfaction, and the distribution of students across different academic streams.
 
 This project demonstrates my skills in data cleaning, data visualization, dashboard development, and interactive reporting using Power BI. It helps transform student usage data into meaningful insights that can support a better understanding of AI adoption in education and its relationship with students' learning experiences.
+
+## Project Dashboard
+
+![Impact of AI on Student Learning](images/<img width="1162" height="647" alt="Screenshot 2026-10-29 162707" src="https://github.com/user-attachments/assets/2fff873b-ef09-43d0-9c8e-b8eb26203446" />
+)
