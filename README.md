@@ -9,3 +9,10 @@ This project demonstrates my skills in data cleaning, data visualization, dashbo
 
 ![Impact of AI on Student Learning](images/<img width="1162" height="647" alt="Screenshot 2026-10-29 162707" src="https://github.com/user-attachments/assets/2fff873b-ef09-43d0-9c8e-b8eb26203446" />
 )
+
+!(<img width="1162" height="648" alt="Screenshot 2026-10-29 164016" src="https://github.com/user-attachments/assets/f505c610-f4cc-4c9b-9d01-4f8be0254a12" />
+)
+
+!(<img width="1166" height="652" alt="Screenshot 2026-10-29 164039" src="https://github.com/user-attachments/assets/f7948495-bf70-4a5b-8c2b-e093b7c02042" />
+
+)
